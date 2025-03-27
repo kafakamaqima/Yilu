@@ -9,8 +9,6 @@ public class test {
         list.addList(new GenericLinkedList.Node<>(1));
         list.addList(new GenericLinkedList.Node<>(2));
         list.addList(new GenericLinkedList.Node<>(2));
-        list.addList(new GenericLinkedList.Node<>(2));
-        list.addList(new GenericLinkedList.Node<>(2));
         list.addList(new GenericLinkedList.Node<>(3));
         list.addList(new GenericLinkedList.Node<>(4));
         System.out.println("链表内容: " + list);
